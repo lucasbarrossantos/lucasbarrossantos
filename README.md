@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lucas Barros Santos
 
-<!--
-**lucasbarrossantos/lucasbarrossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/lucasbarrossantos/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas14081992@gmail.com)](mailto:lucas14081992@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Olá! Bem-vind@ ao meu perfil
+
+- 👷 Sou Senior Software Engineer | everis
+- 🎓 Formado em Ciência da Computação | 📚 FACAPE
+- 💻 Apaixonado por tecnologia
+- 🎙️ Criador do curso [Spring Boot e Materialize](https://www.hotmart.com/product/curso-de-spring-boot-e-materialize)
+- 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento
