@@ -12,5 +12,5 @@
 - 💻 Apaixonado por tecnologia.
 - 🎙️ Criador do curso [Spring Boot e Materialize](https://www.hotmart.com/product/curso-de-spring-boot-e-materialize).
 - 🎓Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
-- Tenho bastante experiência em desenvolvimento Backend com foco em Java.
+- ☕ Tenho bastante experiência em desenvolvimento Backend com foco em Java☕.
 - 👨🏻‍💻 Atualmente estudando Flutter.
