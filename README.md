@@ -2,12 +2,12 @@
 
 ### Olá! Bem-vind@ ao meu perfil
 
-- 👷 Sou Engenheiro Software Sr | PagSeguro PagBank
+- 👷 Sou Engenheiro Software Senior | PagSeguro PagBank
 - 🎓 Formado em Ciência da Computação | 📚 FACAPE
 - 💻 Apaixonado por tecnologia.
 - 🎓 Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
 - ☕ Tenho bastante experiência em desenvolvimento Backend com foco em Java ☕.
-- 👨🏻‍💻 Atualmente estudando Flutter.
+- 👨🏻‍💻 Atualmente estudando Cloud AWS.
 
 <a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=lucasbarrossantos&show_icons=true&theme=red)</a>
 
