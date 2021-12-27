@@ -3,7 +3,7 @@
 ### Olá! Bem-vind@ ao meu perfil
 
 - 👷 Sou Engenheiro Software Senior | PagSeguro PagBank
-- 🎓 Formado em Ciência da Computação | 📚 FACAPE
+- 🎓 Formado em Ciência da Computação | FACAPE 📚 
 - 💻 Apaixonado por tecnologia.
 - 🎓 Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
 - ☕ Tenho bastante experiência em desenvolvimento Backend com foco em Java ☕.
