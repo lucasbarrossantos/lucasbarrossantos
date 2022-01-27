@@ -2,7 +2,7 @@
 
 ### Olá! Bem-vind@ ao meu perfil
 
-- 👷 Sou Engenheiro Software Senior | PagSeguro PagBank
+- 👷 Sou Engenheiro Software Senior
 - 🎓 Formado em Ciência da Computação | FACAPE 📚 
 - 💻 Apaixonado por tecnologia.
 - 🎓 Gosto de estar sempre aprendendo e também de compartilhar esse conhecimento.
